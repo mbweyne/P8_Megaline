@@ -1,4 +1,4 @@
-![Banner do Projeto](banner_p8_megaline.png)
+![Banner do Projeto](Banner.png)
 
 # 📱 Projeto 8 - P8_Megaline – Classificador de Plano Celular
 
